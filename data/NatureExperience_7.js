@@ -1,0 +1,1 @@
+var json_NatureExperience_7 = {"type":"FeatureCollection","name":"NatureExperience_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Adresse":"Nature Experience","link":"https:\/\/www.nature-experience-group.com\/es\/"},"geometry":{"type":"Point","coordinates":[-78.47562598659691,-0.17411433383949]}}]}
